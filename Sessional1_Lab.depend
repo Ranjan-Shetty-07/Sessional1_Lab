@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1608787431 source:c:\users\user\desktop\ml_class\ads\sessional1\lab\sessional1_lab\main.c
+	<stdio.h>
+	<stdlib.h>
+	"MMB.h"
+	<assert.h>
+	<stdint.h>
+	"appConstants.h"
+	<string.h>
+
+1608787830 source:c:\users\user\desktop\ml_class\ads\sessional1\lab\sessional1_lab\mmb_imp.c
+	<stdlib.h>
+	<stdint.h>
+	"appConstants.h"
+	"MMB.h"
+	<string.h>
+
+1608786805 c:\users\user\desktop\ml_class\ads\sessional1\lab\sessional1_lab\appconstants.h
+
+1608786918 c:\users\user\desktop\ml_class\ads\sessional1\lab\sessional1_lab\mmb.h
+	<stdint.h>
+	"appConstants.h"
+
